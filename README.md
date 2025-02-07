@@ -1,4 +1,3 @@
-<!-- # [🟢𝔸𝕀 / 𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙣𝙤 𝘽𝙤𝙩 / Scraping /𝔀𝓮𝓫3 specialist🟢](https://t.me/knight0325) -->
 <h1>
     <a href="https://t.me/knight0325">🟢𝔸𝕀 / 𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙣𝙤 𝘽𝙤𝙩 / Scraping /𝔀𝓮𝓫3 specialist🟢</a>
 </h1>
@@ -11,9 +10,9 @@
 </br>
 <h2>About Me
     <p>
-    - 𝙸’𝚖 very familiar with AI fields
-    - And also have expertise in web scraping and chatbot developing
-    - Nowadays I have developed Telegram bot successfully
+    - 𝙸’𝚖 very familiar with AI fields""
+    - And also have expertise in web scraping and chatbot developing""
+    - Nowadays I have developed Telegram bot successfully""
     </p>
 </h2>
 
