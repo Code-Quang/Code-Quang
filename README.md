@@ -3,6 +3,10 @@
   <img src="Bottom_up.svg">
 </p>
 ## 🔗 [portfolio](https://blue-deer.static.domains/)
+<h2>
+    <a href="https://blue-deer.static.domains/">🔗portfolio</a>
+</h2>
+
 
 <h2 align="center">⚡ Tech Stack</h1>
 <table align="center">
