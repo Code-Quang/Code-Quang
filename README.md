@@ -8,15 +8,13 @@
     <a href="https://blue-deer.static.domains/">🔗portfolio</a>
 </h2>
 </br>
-<h2>About Me
-    <p>
-    - 𝙸’𝚖 very familiar with AI fields</hr>
-    - And also have expertise in web scraping and chatbot developing</hr>
-    - Nowadays I have developed Telegram bot successfully</hr>
-    </p>
-</h2>
 
-
+## About Me
+  
+    - **𝙸’𝚖 very familiar with AI fields**
+    - **And also have expertise in web scraping and chatbot developing**
+    - **Nowadays I have developed Telegram bot successfully**
+    
 <h2 align="center">⚡ Tech Stack</h1>
 <table align="center">
   <tr>
