@@ -2,7 +2,7 @@
   <img src="Bottom_up.svg">
 </p>
 <div>
-    <a href = "https://t.me/knight0325">🟢𝔸𝕀 / 𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙣𝙤 𝘽𝙤𝙩 / Scraping /𝔀𝓮𝓫3 specialist🟢</a>
+    <a href = "https://t.me/knight0325" style={font-size:20px}>🟢𝔸𝕀 / 𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙣𝙤 𝘽𝙤𝙩 / Scraping /𝔀𝓮𝓫3 specialist🟢</a>
 </div>
 ## 🔗 [portfolio](https://blue-deer.static.domains/)
 
