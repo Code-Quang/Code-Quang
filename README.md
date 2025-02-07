@@ -5,7 +5,7 @@
   <img src="Bottom_up.svg">
 </p>
 <h2>
-    <a href="https://blue-deer.static.domains/">🔗portfolio</a>
+    <a href="https://blue-deer.static.domain/">🔗portfolio</a>
 </h2>
 </br>
 
