@@ -10,9 +10,9 @@
 </br>
 <h2>About Me
     <p>
-    - 𝙸’𝚖 very familiar with AI fields""
-    - And also have expertise in web scraping and chatbot developing""
-    - Nowadays I have developed Telegram bot successfully""
+    - 𝙸’𝚖 very familiar with AI fields</hr>
+    - And also have expertise in web scraping and chatbot developing</hr>
+    - Nowadays I have developed Telegram bot successfully</hr>
     </p>
 </h2>
 
