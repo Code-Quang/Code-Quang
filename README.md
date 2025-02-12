@@ -10,7 +10,7 @@
 </br>
 
 ## About Me
-- 𝙸’𝚖 very familiar with AI fields
+- *AI Development*: I have a strong foundation in AI technologies, including machine learning, natural language processing, and AI-driven solutions.
 - And also have expertise in web scraping and chatbot developing
 - Nowadays I have developed Telegram bot successfully
     
