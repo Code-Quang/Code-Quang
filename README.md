@@ -11,9 +11,13 @@
 
 ## About Me
 - **AI Development**: I have a strong foundation in AI technologies, including Machine Learning, Natural Language Processing, and AI-driven solutions.
+
 - **Bot Development**: I specialize in building bots, such as Solana trading bots for cryptocurrency automation and Telegram bots for seamless user interactions.
-- **Chatbots***: I excel in developing AI-powered chatbots, leveraging NLP to create intuitive and engaging conversational experiences.
+
+- **Chatbots**: I excel in developing AI-powered chatbots, leveraging NLP to create intuitive and engaging conversational experiences.
+
 - **Web Scraping**: Proficient in extracting and processing data from the web to support AI and bot functionalities.
+
 - **Recent Achievement**: Successfully developed and deployed a fully functional Telegram bot and crypto trading bot, demonstrating my expertise in automation and bot development.
 
 <!-- <h2 align="center">⚡ Tech Stack</h1>
